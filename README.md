@@ -4,7 +4,7 @@ Submitted by: **Kritika Joshi**
 
 **CodepathIOS** is an app that changes the screen color when a 'change' button is tapped. 
 
-Time spent: **10** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
